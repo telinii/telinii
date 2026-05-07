@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luca Telini
 
-## 🚀 Computer Science Studente at UniFACEF 
+## 🚀 Computer Science Student at UniFACEF 
 ## 🇧🇷 Brazil
 
 
