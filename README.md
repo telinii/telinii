@@ -1,4 +1,4 @@
-# Hi 👋, I'm Luca Telini
+# Olá, me chamo Luca Telini Crozara
 
 ## 🚀 Computer Science Student at UniFACEF 
 ## 🇧🇷 Brazil
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/telinii">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 What I do
+## 🧠 Oquê eu faço
 
 -   ⚡ Performance optimization
 -   🧩 System design
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Minha Tech Stack
 
 ### Frontend
 
