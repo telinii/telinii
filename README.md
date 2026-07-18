@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 Oquê eu faço
+## 🧠 What i do
 
 -   ⚡ Performance optimization
 -   🧩 System design
