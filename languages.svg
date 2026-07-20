@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <clipPath id="roundedPie">
+      <circle cx="120" cy="160" r="80"/>
+    </clipPath>
+  </defs>
+  
   <style>
     text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .legend-item { rx: 4; ry: 4; }
   </style>
   
   <!-- Background -->
-  <rect width="400" height="300" fill="#000000"/>
+  <rect width="400" height="300" fill="#000000" rx="10" ry="10"/>
   
   <!-- Title -->
   <text x="200" y="30" text-anchor="middle" fill="#00FF00" font-size="16" font-weight="bold">LANGUAGES USED</text>
@@ -12,36 +19,39 @@
   <!-- Pie Chart -->
   <g transform="translate(120, 160)">
     <!-- Java - 33.3% (120°) -->
-    <circle r="80" fill="none" stroke="#ED8B00" stroke-width="40" stroke-dasharray="167.55 335.1" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle r="80" fill="none" stroke="#FF8C00" stroke-width="40" stroke-dasharray="167.55 335.1" stroke-dashoffset="0" transform="rotate(-90)"/>
     
     <!-- JavaScript - 26.7% (96°) -->
-    <circle r="80" fill="none" stroke="#F7DF1E" stroke-width="40" stroke-dasharray="134.04 368.61" stroke-dashoffset="-167.55" transform="rotate(-90)"/>
+    <circle r="80" fill="none" stroke="#FFD700" stroke-width="40" stroke-dasharray="134.04 368.61" stroke-dashoffset="-167.55" transform="rotate(-90)"/>
     
     <!-- TypeScript - 13.3% (48°) -->
     <circle r="80" fill="none" stroke="#3178C6" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-301.59" transform="rotate(-90)"/>
     
     <!-- Python - 13.3% (48°) -->
-    <circle r="80" fill="none" stroke="#3776AB" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-368.61" transform="rotate(-90)"/>
+    <circle r="80" fill="none" stroke="#4ECDC4" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-368.61" transform="rotate(-90)"/>
     
     <!-- HTML - 13.3% (48°) -->
-    <circle r="80" fill="none" stroke="#E34F26" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-435.63" transform="rotate(-90)"/>
+    <circle r="80" fill="none" stroke="#FF6B6B" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-435.63" transform="rotate(-90)"/>
+    
+    <!-- Inner circle for donut effect -->
+    <circle r="60" fill="#000000"/>
   </g>
   
   <!-- Legend -->
-  <g transform="translate(250, 90)">
-    <rect x="0" y="0" width="12" height="12" fill="#ED8B00"/>
-    <text x="18" y="10" fill="#FFFFFF" font-size="11">Java (33%)</text>
+  <g transform="translate(250, 85)">
+    <rect x="0" y="0" width="14" height="14" fill="#FF8C00" class="legend-item"/>
+    <text x="20" y="11" fill="#FFFFFF" font-size="11">Java (33%)</text>
     
-    <rect x="0" y="22" width="12" height="12" fill="#F7DF1E"/>
-    <text x="18" y="32" fill="#FFFFFF" font-size="11">JavaScript (27%)</text>
+    <rect x="0" y="24" width="14" height="14" fill="#FFD700" class="legend-item"/>
+    <text x="20" y="35" fill="#FFFFFF" font-size="11">JavaScript (27%)</text>
     
-    <rect x="0" y="44" width="12" height="12" fill="#3178C6"/>
-    <text x="18" y="54" fill="#FFFFFF" font-size="11">TypeScript (13%)</text>
+    <rect x="0" y="48" width="14" height="14" fill="#3178C6" class="legend-item"/>
+    <text x="20" y="59" fill="#FFFFFF" font-size="11">TypeScript (13%)</text>
     
-    <rect x="0" y="66" width="12" height="12" fill="#3776AB"/>
-    <text x="18" y="76" fill="#FFFFFF" font-size="11">Python (13%)</text>
+    <rect x="0" y="72" width="14" height="14" fill="#4ECDC4" class="legend-item"/>
+    <text x="20" y="83" fill="#FFFFFF" font-size="11">Python (13%)</text>
     
-    <rect x="0" y="88" width="12" height="12" fill="#E34F26"/>
-    <text x="18" y="98" fill="#FFFFFF" font-size="11">HTML (13%)</text>
+    <rect x="0" y="96" width="14" height="14" fill="#FF6B6B" class="legend-item"/>
+    <text x="20" y="107" fill="#FFFFFF" font-size="11">HTML (13%)</text>
   </g>
 </svg>
