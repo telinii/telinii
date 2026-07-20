@@ -28,6 +28,23 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=00FF00&point=00FF00&hide_border=true)
 
+<div align="center">
+
+![Contributions](https://img.shields.io/badge/201%20Contributions-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)
+![Repos](https://img.shields.io/badge/24%20Repos-00FF00?style=for-the-badge&labelColor=000000&color=000000)
+
+</div>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+</div>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=telinii&color=00FF00&style=flat&label=PROFILE%20VIEWS)
