@@ -1,6 +1,6 @@
-# Hi, my name is Luca 👋
+# Hi, my name is Luca
 
-**Computer Science Student at UniFACEF | 🇧🇷 Brazil**
+**Computer Science Student at UniFACEF | Brazil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-telinii-181717?style=flat&logo=github&logoColor=white)](https://github.com/telinii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Telini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-telini-crozara-19a609315)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+![Tech Stack](https://img.shields.io/badge/TECH%20STACK-000000?style=for-the-badge&color=000000&labelColor=000000)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -24,10 +24,10 @@
 
 ---
 
-## 📊 Activity
+![Activity](https://img.shields.io/badge/ACTIVITY-000000?style=for-the-badge&color=000000&labelColor=000000)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=00FF00&point=00FF00&hide_border=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=telinii&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=telinii&color=00FF00&style=flat&label=PROFILE%20VIEWS)
