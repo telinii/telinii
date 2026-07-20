@@ -33,6 +33,8 @@ I'm a Computer Science student passionate about building things. I develop **Min
 
 ![Minecraft Modding](https://img.shields.io/badge/Minecraft%20Modding-00FF00?style=flat&labelColor=000000&color=000000)
 ![PWA Development](https://img.shields.io/badge/PWA%20Development-00FF00?style=flat&labelColor=000000&color=000000)
+![Database Integrations](https://img.shields.io/badge/Database%20Integrations-00FF00?style=flat&labelColor=000000&color=000000)
+![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-00FF00?style=flat&labelColor=000000&color=000000)
 
 ---
 
