@@ -1,10 +1,39 @@
-# Hi, my name is Luca
+# Hi, I'm Luca
 
-**Computer Science Student at UniFACEF | Brazil**
+**19 y/o | Computer Science Student at UniFACEF | Franca, SP - Brazil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-telinii-181717?style=flat&logo=github&logoColor=white)](https://github.com/telinii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Telini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-telini-crozara-19a609315)
 [![Instagram](https://img.shields.io/badge/Instagram-@lucatelini_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucatelini_)
+
+---
+
+## About Me
+
+I'm a Computer Science student passionate about building things. I develop **Minecraft mods**, **PWAs**, and enjoy working on automation and system design. Currently focused on backend development and cloud infrastructure.
+
+---
+
+## Featured Projects
+
+[![ReTerraReforged](https://img.shields.io/badge/ReTerraReforged-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/ReTerraReforged)
+[![Agente-IA](https://img.shields.io/badge/Agente--IA-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Agente-IA)
+[![Gradient-Texts](https://img.shields.io/badge/Gradient--Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Gradient-Texts)
+[![ToDoList](https://img.shields.io/badge/ToDoList-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/ToDoList)
+
+---
+
+## Contact
+
+![Email](https://img.shields.io/badge/lucatelinic23%40gmail.com-00FF00?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=000000)
+![Discord](https://img.shields.io/badge/initialz__-00FF00?style=flat&logo=discord&logoColor=white&labelColor=000000&color=000000)
+
+---
+
+## What I'm Learning
+
+![Minecraft Modding](https://img.shields.io/badge/Minecraft%20Modding-00FF00?style=flat&labelColor=000000&color=000000)
+![PWA Development](https://img.shields.io/badge/PWA%20Development-00FF00?style=flat&labelColor=000000&color=000000)
 
 ---
 
