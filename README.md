@@ -26,7 +26,7 @@
 
 ## 📊 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=00FF00&point=00FF00&hide_border=true)
 
 ---
 
