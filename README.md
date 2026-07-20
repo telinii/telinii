@@ -17,9 +17,8 @@ I'm a Computer Science student passionate about building things. I develop **Min
 ## Featured Projects
 
 [![ReTerraReforged](https://img.shields.io/badge/ReTerraReforged-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/ReTerraReforged)
-[![Agente-IA](https://img.shields.io/badge/Agente--IA-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Agente-IA)
 [![Gradient-Texts](https://img.shields.io/badge/Gradient--Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Gradient-Texts)
-[![ToDoList](https://img.shields.io/badge/ToDoList-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/ToDoList)
+[![maintenance-system](https://img.shields.io/badge/maintenance--system-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/maintenance-system)
 
 ---
 
