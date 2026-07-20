@@ -72,9 +72,7 @@ I'm a Computer Science student passionate about building efficient and scalable 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=telinii&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telinii&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=telinii&theme=radical&hide_border=true)
 
 </div>
 
