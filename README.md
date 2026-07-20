@@ -39,7 +39,7 @@
 
 ### Languages Distribution
 
-![Languages](languages.svg)
+![Languages](languages.svg?v=2)
 
 </div>
 
