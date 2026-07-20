@@ -72,7 +72,9 @@ I'm a Computer Science student passionate about building efficient and scalable 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=telinii&theme=radical&hide_border=true)
+![GitHub Followers](https://img.shields.io/github/followers/telinii?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/telinii?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/telinii?label=Repos&style=social)
 
 </div>
 
