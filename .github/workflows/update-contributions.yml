@@ -1,0 +1,33 @@
+name: Update Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get contributions
+        id: contributions
+        run: |
+          YEAR=$(date +%Y)
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"query":"query { user(login: \"telinii\") { contributionsCollection(year: '$YEAR') { contributionCalendar { total } } } }"}' \
+            https://api.github.com/graphql | jq -r '.data.user.contributionsCollection.contributionCalendar.total' > /tmp/contributions.txt
+
+      - name: Update README
+        run: |
+          CONTRIBUTIONS=$(cat /tmp/contributions.txt)
+          sed -i "s/[0-9]\+ Contributions/${CONTRIBUTIONS} Contributions/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update contribution count to $(cat /tmp/contributions.txt)"
+          git push
