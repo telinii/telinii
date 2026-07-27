@@ -17,14 +17,9 @@ jobs:
 
       - name: Fetch contribution count
         id: fetch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          COUNT=$(curl -s -H "Authorization: token $GH_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d '{"query":"{ viewer { contributionsCollection { contributionCalendar { totalContributions } } } }"}' \
-            https://api.github.com/graphql \
-            | jq -r '.data.viewer.contributionsCollection.contributionCalendar.totalContributions')
+          COUNT=$(gh api graphql -f query='{ viewer { contributionsCollection { contributionCalendar { totalContributions } } } }' \
+            --jq '.data.viewer.contributionsCollection.contributionCalendar.totalContributions')
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "Contributions: $COUNT"
 
