@@ -17,6 +17,8 @@ jobs:
 
       - name: Fetch contribution count
         id: fetch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           COUNT=$(gh api graphql -f query='
             query {
