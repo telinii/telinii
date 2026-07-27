@@ -18,8 +18,17 @@ jobs:
       - name: Fetch contribution count
         id: fetch
         run: |
-          COUNT=$(curl -s "https://github.com/${{ github.repository_owner }}" \
-            | grep -oP 'totalContributions":\K[0-9]+' | head -1)
+          COUNT=$(gh api graphql -f query='
+            query {
+              user(login: "${{ github.repository_owner }}") {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                  }
+                }
+              }
+            }
+          ' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "Contributions: $COUNT"
 
