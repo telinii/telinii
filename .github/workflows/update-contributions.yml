@@ -25,7 +25,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|/badge/[0-9]*%20Contributions|/badge/${{ steps.fetch.outputs.count }}%20Contributions|g" README.md
+          sed -i "s|/badge/[^%]*%20Contributions|/badge/${{ steps.fetch.outputs.count }}%20Contributions|g" README.md
 
       - name: Commit and push
         run: |
