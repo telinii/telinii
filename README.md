@@ -60,7 +60,7 @@ I'm a Computer Science student passionate about building things. I develop **Min
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/257%20Contributions-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)
+![Contributions](https://img.shields.io/badge/300%20Contributions-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)
 ![Repos](https://img.shields.io/badge/24%20Repos-00FF00?style=for-the-badge&labelColor=000000&color=000000)
 
 </div>
