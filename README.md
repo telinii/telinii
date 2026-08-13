@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Science student passionate about building things. I develop **Minecraft mods**, **PWAs**, and enjoy working on automation and system design. Currently focused on backend development and cloud infrastructure.
+I'm a Computer Science student passionate about building things. Currently i'm learning about **AI Development, TypeScript setups w/ database integration, using Prisma ORM, Express and Joi**. I'm looking for an **internship** to apply my knowledges and learn new things.
 
 ---
 
