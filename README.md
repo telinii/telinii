@@ -13,6 +13,10 @@
 
 I'm a Computer Science student passionate about building things. Currently i'm learning about **AI Development, TypeScript setups w/ database integration, using Prisma ORM, Express and Joi**. I'm looking for an **internship** to apply my knowledges and learn new things.
 
+## My philosofy
+
+_People you know and live with probably won't support you, maybe people you don't know will_
+
 ---
 
 ## Featured Projects
@@ -33,9 +37,13 @@ I'm a Computer Science student passionate about building things. Currently i'm l
 
 ## What I'm Learning
 
-![Minecraft Modding](https://img.shields.io/badge/Minecraft%20Modding-00FF00?style=flat&labelColor=000000&color=000000)
-![PWA Development](https://img.shields.io/badge/PWA%20Development-00FF00?style=flat&labelColor=000000&color=000000)
-![Database Integrations](https://img.shields.io/badge/Database%20Integrations-00FF00?style=flat&labelColor=000000&color=000000)
+![Typescript](https://img.shields.io/badge/%20Typescript-00FF00?style=flat&labelColor=000000&color=000000)
+![Express](https://img.shields.io/badge/%20Express-00FF00?style=flat&labelColor=000000&color=000000)
+![MySQL](https://img.shields.io/badge/%20MySQL-00FF00?style=flat&labelColor=000000&color=000000)
+![Schemas](https://img.shields.io/badge/%20Schemas-00FF00?style=flat&labelColor=000000&color=000000)
+![Prisma](https://img.shields.io/badge/%20Prisma-00FF00?style=flat&labelColor=000000&color=000000)
+![Arch Linux](https://img.shields.io/badge/%20Arch--Linux-00FF00?style=flat&labelColor=000000&color=000000)
+![Joi](https://img.shields.io/badge/%20Joi-00FF00?style=flat&labelColor=000000&color=000000)
 ![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-00FF00?style=flat&labelColor=000000&color=000000)
 
 ---
@@ -55,12 +63,14 @@ I'm a Computer Science student passionate about building things. Currently i'm l
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-010203?style=flat&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/Cachy%20OS-03bb85?style=flat&logo=cachyos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
-![Activity](https://img.shields.io/badge/ACTIVITY-000000?style=for-the-badge&color=000000&labelColor=000000)
+![My Activity](https://img.shields.io/badge/MY%20ACTIVITY-000000?style=for-the-badge&color=000000&labelColor=000000)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=00FF00&point=00FF00&hide_border=true)
 
