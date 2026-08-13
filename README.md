@@ -17,7 +17,7 @@ I'm a Computer Science student passionate about building things. Currently i'm l
 ## Featured Projects
 
 [![Terratonizer](https://img.shields.io/badge/Terratonizer-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Terratonizer)
-[![Gradient-Texts](https://img.shields.io/badge/Gradient-Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Gradient-Texts)
+[![Gradient-Texts](https://img.shields.io/badge/Gradient--Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/Gradient-Texts)
 [![maintenance-system](https://img.shields.io/badge/maintenance--system-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/maintenance-system)
 [![blog](https://img.shields.io/badge/blog--00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/telinii/blog)
 
