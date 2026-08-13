@@ -73,7 +73,7 @@ I'm a Computer Science student passionate about building things. I develop **Min
 
 ### Languages Distribution
 
-![Languages](languages.svg?v=2)
+![Languages](languages.svg?v=3)
 
 </div>
 

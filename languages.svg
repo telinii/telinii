@@ -18,20 +18,20 @@
   
   <!-- Pie Chart -->
   <g transform="translate(120, 160)">
-    <!-- Java - 33.3% (120°) -->
-    <circle r="80" fill="none" stroke="#FF8C00" stroke-width="40" stroke-dasharray="167.55 335.1" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <!-- Java - 40.2% (145°) -->
+    <circle r="80" fill="none" stroke="#FF8C00" stroke-width="40" stroke-dasharray="202.19 300.46" stroke-dashoffset="0" transform="rotate(-90)"/>
     
-    <!-- JavaScript - 26.7% (96°) -->
-    <circle r="80" fill="none" stroke="#FFD700" stroke-width="40" stroke-dasharray="134.04 368.61" stroke-dashoffset="-167.55" transform="rotate(-90)"/>
+    <!-- TypeScript - 29.1% (105°) -->
+    <circle r="80" fill="none" stroke="#3178C6" stroke-width="40" stroke-dasharray="146.17 356.48" stroke-dashoffset="-202.19" transform="rotate(-90)"/>
     
-    <!-- TypeScript - 13.3% (48°) -->
-    <circle r="80" fill="none" stroke="#3178C6" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-301.59" transform="rotate(-90)"/>
+    <!-- HTML - 19.7% (71°) -->
+    <circle r="80" fill="none" stroke="#FF6B6B" stroke-width="40" stroke-dasharray="99.06 403.59" stroke-dashoffset="-348.36" transform="rotate(-90)"/>
     
-    <!-- Python - 13.3% (48°) -->
-    <circle r="80" fill="none" stroke="#4ECDC4" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-368.61" transform="rotate(-90)"/>
+    <!-- JavaScript - 8.3% (30°) -->
+    <circle r="80" fill="none" stroke="#FFD700" stroke-width="40" stroke-dasharray="41.83 460.82" stroke-dashoffset="-447.42" transform="rotate(-90)"/>
     
-    <!-- HTML - 13.3% (48°) -->
-    <circle r="80" fill="none" stroke="#FF6B6B" stroke-width="40" stroke-dasharray="67.02 435.63" stroke-dashoffset="-435.63" transform="rotate(-90)"/>
+    <!-- Python - 2.7% (10°) -->
+    <circle r="80" fill="none" stroke="#4ECDC4" stroke-width="40" stroke-dasharray="13.41 489.24" stroke-dashoffset="-489.25" transform="rotate(-90)"/>
     
     <!-- Inner circle for donut effect -->
     <circle r="60" fill="#000000"/>
@@ -40,18 +40,18 @@
   <!-- Legend -->
   <g transform="translate(250, 85)">
     <rect x="0" y="0" width="14" height="14" fill="#FF8C00" class="legend-item"/>
-    <text x="20" y="11" fill="#FFFFFF" font-size="11">Java (33%)</text>
+    <text x="20" y="11" fill="#FFFFFF" font-size="11">Java (40%)</text>
     
-    <rect x="0" y="24" width="14" height="14" fill="#FFD700" class="legend-item"/>
-    <text x="20" y="35" fill="#FFFFFF" font-size="11">JavaScript (27%)</text>
+    <rect x="0" y="24" width="14" height="14" fill="#3178C6" class="legend-item"/>
+    <text x="20" y="35" fill="#FFFFFF" font-size="11">TypeScript (29%)</text>
     
-    <rect x="0" y="48" width="14" height="14" fill="#3178C6" class="legend-item"/>
-    <text x="20" y="59" fill="#FFFFFF" font-size="11">TypeScript (13%)</text>
+    <rect x="0" y="48" width="14" height="14" fill="#FF6B6B" class="legend-item"/>
+    <text x="20" y="59" fill="#FFFFFF" font-size="11">HTML (20%)</text>
     
-    <rect x="0" y="72" width="14" height="14" fill="#4ECDC4" class="legend-item"/>
-    <text x="20" y="83" fill="#FFFFFF" font-size="11">Python (13%)</text>
+    <rect x="0" y="72" width="14" height="14" fill="#FFD700" class="legend-item"/>
+    <text x="20" y="83" fill="#FFFFFF" font-size="11">JavaScript (8%)</text>
     
-    <rect x="0" y="96" width="14" height="14" fill="#FF6B6B" class="legend-item"/>
-    <text x="20" y="107" fill="#FFFFFF" font-size="11">HTML (13%)</text>
+    <rect x="0" y="96" width="14" height="14" fill="#4ECDC4" class="legend-item"/>
+    <text x="20" y="107" fill="#FFFFFF" font-size="11">Python (3%)</text>
   </g>
 </svg>
