@@ -13,7 +13,7 @@
 
 I'm a Computer Science student passionate about building things. Currently i'm learning about **AI Development, TypeScript setups w/ database integration, using Prisma ORM, Express and Joi**. I'm looking for an **internship** to apply my knowledges and learn new things.
 
-## My philosofy
+## My philosophy
 
 _People you know and live with probably won't support you, maybe people you don't know will_
 
