@@ -5,7 +5,7 @@
 ## Find me here!
 [![GitHub](https://img.shields.io/badge/GitHub-telinii-181717?style=flat&logo=github&logoColor=white)](https://github.com/telinii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Telini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-telini-crozara-19a609315)
-[![Instagram](https://img.shields.io/badge/Instagram-@lucatelini_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucatelini_)
+[![Instagram](https://img.shields.io/badge/Instagram-@luca.telini-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucatelini_)
 
 ---
 
