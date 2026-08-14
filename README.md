@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Computer Science student passionate about building things. Currently i'm learning about **AI Development, TypeScript setups w/ database integration, using Prisma ORM, Express and Joi**. I'm looking for an **internship** to apply my knowledges and learn new things.
+I'm a Computer Science student, i'm on the 4th semester of the course and i'm trully passionate about building things. Currently i'm learning about **AI Development, TypeScript setups w/ database integration, using Prisma ORM, Express and Joi**. I'm looking for an **internship** to apply my knowledges and learn new things.
 
 ## My philosophy
 
