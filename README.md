@@ -66,10 +66,6 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 
 ## My Activity
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=telinii&show_icons=true&hide_title=true&count_private=true&bg_color=000000&text_color=FFFFFF&icon_color=03bb85&title_color=03bb85&border_color=1F1F1F)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=telinii&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=03bb85&border_color=1F1F1F)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=03bb85&point=03bb85&hide_border=true)
 
 <div align="center">
