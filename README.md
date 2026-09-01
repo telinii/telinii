@@ -16,6 +16,8 @@ I build REST APIs with authentication, authorization, database integration, secu
 
 Currently seeking an internship where I can contribute to real-world projects and grow as a backend/software engineer.
 
+Linux enthusiast — currently using CachyOS.
+
 
 
 > _People you know and live with probably won't support you. Maybe people you don't know will._
