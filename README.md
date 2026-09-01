@@ -22,7 +22,7 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 [![Terratonizer](https://img.shields.io/badge/Terratonizer-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Terratonizer)
 [![Gradient-Texts](https://img.shields.io/badge/Gradient--Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Gradient-Texts)
 [![maintenance-system](https://img.shields.io/badge/maintenance--system-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/maintenance-system)
-[![Hospital-System](https://img.shields.io/badge/Hospital--System-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Hospital-System)
+[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/blog)
 
 | Project | What it does |
 | --- | --- |
@@ -30,7 +30,7 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 | [Gradient-Texts](https://github.com/telinii/Gradient-Texts) | Minecraft Forge 1.20.1 mod that adds gradient effects to items via commands. |
 | [ReTerraReforged](https://github.com/telinii/ReTerraReforged) | ReTerraforged fork ported to 1.20.1-Forge for the "TOTV: Ascension" modpack. |
 | [maintenance-system](https://github.com/telinii/maintenance-system) | Personal-use maintenance tracking system. |
-| [Hospital-System](https://github.com/telinii/Hospital-System) | Queue control system for hospital environments. |
+| [blog](https://github.com/telinii/blog) | A simple project about a blog setup. |
 
 ---
 
