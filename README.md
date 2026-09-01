@@ -10,8 +10,13 @@
 
 ## About Me
 
-I'm a Computer Science student on my 4th semester, truly passionate about building things.
-Currently diving into **AI development** and **TypeScript backends** — Prisma ORM, Express and Joi — and looking for an **internship** to apply what I know and learn even more.
+I'm a 4th-semester Computer Science student focused on backend development with TypeScript.
+
+I build REST APIs with authentication, authorization, database integration, secure password handling and deployment. I'm also exploring AI development and continuously improving my software engineering skills.
+
+Currently seeking an internship where I can contribute to real-world projects and grow as a backend/software engineer.
+
+
 
 > _People you know and live with probably won't support you. Maybe people you don't know will._
 
