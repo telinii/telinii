@@ -26,13 +26,15 @@ Linux enthusiast — currently using CachyOS.
 
 ## Featured Projects
 
+[![hub-epi](https://img.shields.io/badge/hub--epi-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/hub-epi)
 [![maintenance-system](https://img.shields.io/badge/maintenance--system-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/maintenance-system)
 [![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/blog)
 
 | Project | What it does |
 | --- | --- |
-| [maintenance-system](https://github.com/telinii/maintenance-system) | Personal-use maintenance tracking system. |
-| [blog](https://github.com/telinii/blog) | A simple project about a blog setup. |
+| [hub-epi](https://github.com/telinii/hub-epi) | EPI (safety gear) inventory control system — employees, equipment, deliveries, invoices, reports and PDF export. React + TypeScript + Supabase (PostgreSQL), with role-based access (admin vs. regular user), Zod validation, Vitest and PWA support. |
+| [blog](https://github.com/telinii/blog) | RESTful Blog API with JWT authentication. |
+| [maintenance-system](https://github.com/telinii/maintenance-system) | Maintenance tracking system for personal use. Deployed on Vercel. |
 
 ---
 
