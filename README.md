@@ -1,6 +1,6 @@
 # Hi, I'm Luca
 
-**19 y/o | Computer Science Student @ UniFACEF | Franca, SP - Brazil**
+**20 y/o | Computer Science Student @ UniFACEF | Franca, SP - Brazil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-telinii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/telinii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Telini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-telini-crozara-19a609315)
@@ -10,8 +10,15 @@
 
 ## About Me
 
-I'm a Computer Science student on my 4th semester, truly passionate about building things.
-Currently diving into **AI development** and **TypeScript backends** — Prisma ORM, Express and Joi — and looking for an **internship** to apply what I know and learn even more.
+I'm a 4th-semester Computer Science student focused on backend development with TypeScript.
+
+I build REST APIs with authentication, authorization, database integration, secure password handling and deployment. I'm also exploring AI development and continuously improving my software engineering skills.
+
+Currently seeking an internship where I can contribute to real-world projects and grow as a backend/software engineer.
+
+Linux enthusiast — currently using CachyOS.
+
+
 
 > _People you know and live with probably won't support you. Maybe people you don't know will._
 
@@ -19,18 +26,15 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 
 ## Featured Projects
 
-[![Terratonizer](https://img.shields.io/badge/Terratonizer-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Terratonizer)
-[![Gradient-Texts](https://img.shields.io/badge/Gradient--Texts-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Gradient-Texts)
+[![hub-epi](https://img.shields.io/badge/hub--epi-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/hub-epi)
 [![maintenance-system](https://img.shields.io/badge/maintenance--system-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/maintenance-system)
-[![Hospital-System](https://img.shields.io/badge/Hospital--System-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/Hospital-System)
+[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/blog)
 
 | Project | What it does |
 | --- | --- |
-| [Terratonizer](https://github.com/telinii/Terratonizer) | Fork of the Tectonic world-gen mod with custom height & shape modifiers for my modpack. |
-| [Gradient-Texts](https://github.com/telinii/Gradient-Texts) | Minecraft Forge 1.20.1 mod that adds gradient effects to items via commands. |
-| [ReTerraReforged](https://github.com/telinii/ReTerraReforged) | ReTerraforged fork ported to 1.20.1-Forge for the "TOTV: Ascension" modpack. |
-| [maintenance-system](https://github.com/telinii/maintenance-system) | Personal-use maintenance tracking system. |
-| [Hospital-System](https://github.com/telinii/Hospital-System) | Queue control system for hospital environments. |
+| [hub-epi](https://github.com/telinii/hub-epi) | EPI (safety gear) inventory control system — employees, equipment, deliveries, invoices, reports and PDF export. React + TypeScript + Supabase (PostgreSQL), with role-based access (admin vs. regular user), Zod validation, Vitest and PWA support. |
+| [blog](https://github.com/telinii/blog) | RESTful Blog API with JWT authentication. |
+| [maintenance-system](https://github.com/telinii/maintenance-system) | Maintenance tracking system for personal use. Deployed on Vercel. |
 
 ---
 
@@ -38,21 +42,17 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Joi](https://img.shields.io/badge/Joi-2D3748?style=flat&logo=joi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-E67E22?style=flat&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-0033CC?style=flat&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Github](https://img.shields.io/badge/Github-010203?style=flat&logo=github&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/Cachy%20OS-03bb85?style=flat&logo=cachyos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
@@ -66,7 +66,11 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 
 ## My Activity
 
+<<<<<<< HEAD
 ![Activity Graph](./activity-graph.svg)
+=======
+![GitHub Activity Graph](https://ghchart.rshah.org/03bb85/telinii)
+>>>>>>> refs/remotes/origin/main
 
 <div align="center">
 
