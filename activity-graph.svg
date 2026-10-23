@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
+  <title>Contribution Graph — last 31 days</title>
+  <rect width="1200" height="300" fill="#000000" rx="10" ry="10" stroke="#1F1F1F"/>
+  <text x="600" y="24" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">Contribution Graph</text>
+  <text x="600" y="38" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11">Last 31 days — 70 contributions · avg 2.3/day</text>
+
+  <!-- grid -->
+  <g stroke="#1a1a1a" stroke-width="1" stroke-dasharray="4 6">
+    <line x1="50" y1="260.00" x2="1170" y2="260.00"/>
+    <line x1="50" y1="148.41" x2="1170" y2="148.41"/>
+    <line x1="50" y1="36.81" x2="1170" y2="36.81"/>
+  </g>
+  <text x="42" y="264.00" text-anchor="end" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">0</text>
+  <text x="42" y="152.41" text-anchor="end" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">7</text>
+  <text x="42" y="40.81" text-anchor="end" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">14</text>
+  <path d="M 50.00 212.17 L 87.33 260.00 L 124.67 244.06 L 162.00 260.00 L 199.33 212.17 L 236.67 212.17 L 274.00 132.46 L 311.33 260.00 L 348.67 244.06 L 386.00 260.00 L 423.33 260.00 L 460.67 228.12 L 498.00 260.00 L 535.33 260.00 L 572.67 212.17 L 610.00 228.12 L 647.33 260.00 L 684.67 228.12 L 722.00 180.29 L 759.33 260.00 L 796.67 180.29 L 834.00 212.17 L 871.33 244.06 L 908.67 260.00 L 946.00 68.70 L 983.33 244.06 L 1020.67 260.00 L 1058.00 260.00 L 1095.33 132.46 L 1132.67 228.12 L 1170.00 180.29 L 1170.00 260.00 L 50.00 260.00 Z" fill="#03bb85" opacity="0.15"/>
+  <path d="M 50.00 212.17 L 87.33 260.00 L 124.67 244.06 L 162.00 260.00 L 199.33 212.17 L 236.67 212.17 L 274.00 132.46 L 311.33 260.00 L 348.67 244.06 L 386.00 260.00 L 423.33 260.00 L 460.67 228.12 L 498.00 260.00 L 535.33 260.00 L 572.67 212.17 L 610.00 228.12 L 647.33 260.00 L 684.67 228.12 L 722.00 180.29 L 759.33 260.00 L 796.67 180.29 L 834.00 212.17 L 871.33 244.06 L 908.67 260.00 L 946.00 68.70 L 983.33 244.06 L 1020.67 260.00 L 1058.00 260.00 L 1095.33 132.46 L 1132.67 228.12 L 1170.00 180.29" fill="none" stroke="#03bb85" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="50.00" cy="212.17" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>3 contributions on 2026-07-29 </title>
+  </circle>
+  <circle cx="87.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-07-30 </title>
+  </circle>
+  <circle cx="124.67" cy="244.06" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>1 contributions on 2026-07-31 </title>
+  </circle>
+  <circle cx="162.00" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-01 </title>
+  </circle>
+  <circle cx="199.33" cy="212.17" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>3 contributions on 2026-08-02 </title>
+  </circle>
+  <circle cx="236.67" cy="212.17" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>3 contributions on 2026-08-03 </title>
+  </circle>
+  <circle cx="274.00" cy="132.46" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>8 contributions on 2026-08-04 </title>
+  </circle>
+  <circle cx="311.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-05 </title>
+  </circle>
+  <circle cx="348.67" cy="244.06" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>1 contributions on 2026-08-06 </title>
+  </circle>
+  <circle cx="386.00" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-07 </title>
+  </circle>
+  <circle cx="423.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-08 </title>
+  </circle>
+  <circle cx="460.67" cy="228.12" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>2 contributions on 2026-08-09 </title>
+  </circle>
+  <circle cx="498.00" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-10 </title>
+  </circle>
+  <circle cx="535.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-11 </title>
+  </circle>
+  <circle cx="572.67" cy="212.17" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>3 contributions on 2026-08-12 </title>
+  </circle>
+  <circle cx="610.00" cy="228.12" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>2 contributions on 2026-08-13 </title>
+  </circle>
+  <circle cx="647.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-14 </title>
+  </circle>
+  <circle cx="684.67" cy="228.12" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>2 contributions on 2026-08-15 </title>
+  </circle>
+  <circle cx="722.00" cy="180.29" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>5 contributions on 2026-08-16 </title>
+  </circle>
+  <circle cx="759.33" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-17 </title>
+  </circle>
+  <circle cx="796.67" cy="180.29" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>5 contributions on 2026-08-18 </title>
+  </circle>
+  <circle cx="834.00" cy="212.17" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>3 contributions on 2026-08-19 </title>
+  </circle>
+  <circle cx="871.33" cy="244.06" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>1 contributions on 2026-08-20 </title>
+  </circle>
+  <circle cx="908.67" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-21 </title>
+  </circle>
+  <circle cx="946.00" cy="68.70" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>12 contributions on 2026-08-22 </title>
+  </circle>
+  <circle cx="983.33" cy="244.06" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>1 contributions on 2026-08-23 </title>
+  </circle>
+  <circle cx="1020.67" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-24 </title>
+  </circle>
+  <circle cx="1058.00" cy="260.00" r="2.2" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="0.7">
+    <title>0 contributions on 2026-08-25 </title>
+  </circle>
+  <circle cx="1095.33" cy="132.46" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>8 contributions on 2026-08-26 </title>
+  </circle>
+  <circle cx="1132.67" cy="228.12" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>2 contributions on 2026-08-27 </title>
+  </circle>
+  <circle cx="1170.00" cy="180.29" r="3.5" fill="#03bb85" stroke="#000000" stroke-width="1.2" opacity="1">
+    <title>5 contributions on 2026-08-28 </title>
+  </circle>
+  <text x="50.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Jul 29</text>
+  <text x="274.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Aug 04</text>
+  <text x="498.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Aug 10</text>
+  <text x="722.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Aug 16</text>
+  <text x="946.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Aug 22</text>
+  <text x="1170.00" y="288" text-anchor="middle" fill="#9E9E9E" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">Aug 28</text>
+  <text x="1170" y="288" text-anchor="end" fill="#555" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="8">updated 2026-08-28 22:21 UTC</text>
+</svg>

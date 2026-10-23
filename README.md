@@ -66,7 +66,7 @@ Currently diving into **AI development** and **TypeScript backends** — Prisma 
 
 ## My Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=telinii&bg_color=000000&color=FFFFFF&line=03bb85&point=03bb85&hide_border=true)
+![Activity Graph](./activity-graph.svg)
 
 <div align="center">
 
