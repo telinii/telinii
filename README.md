@@ -61,9 +61,9 @@ Linux enthusiast — currently using CachyOS.
 
 ## Currently Learning
 
-![AI Development](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&labelColor=000000&color=22c55e)
-![TypeScript Backends](https://img.shields.io/badge/TypeScript%20Backends-000000?style=for-the-badge&labelColor=000000&color=22c55e)
-![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-000000?style=for-the-badge&labelColor=000000&color=22c55e)
+![AI Development](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&labelColor=000000&color=9E9E9E)
+![TypeScript Backends](https://img.shields.io/badge/TypeScript%20Backends-000000?style=for-the-badge&labelColor=000000&color=9E9E9E)
+![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-000000?style=for-the-badge&labelColor=000000&color=9E9E9E)
 
 ---
 
