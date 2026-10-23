@@ -2,7 +2,7 @@
 """
 Generate a self-hosted activity graph SVG (no external service).
 Fetches GitHub contributions via GraphQL (needs GH_TOKEN) and
-renders a line/area chart with the telinii dark theme (#000000 bg, #03bb85 accent).
+renders a line/area chart with the telinii dark theme (#000000 bg, #22c55e accent).
 Falls back to mock/previous data if API unavailable.
 Output: activity-graph.svg in repo root.
 """
@@ -19,7 +19,7 @@ TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or os.envir
 
 # Theme matching README
 BG = "#000000"
-COLOR = "#03bb85"
+COLOR = "#22c55e"
 TEXT = "#FFFFFF"
 GRID = "#1a1a1a"
 BORDER = "#1F1F1F"

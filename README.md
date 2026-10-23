@@ -26,9 +26,9 @@ Linux enthusiast — currently using CachyOS.
 
 ## Featured Projects
 
-[![hub-epi](https://img.shields.io/badge/hub--epi-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/hub-epi)
-[![maintenance-system](https://img.shields.io/badge/maintenance--system-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/maintenance-system)
-[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=03bb85)](https://github.com/telinii/blog)
+[![hub-epi](https://img.shields.io/badge/hub--epi-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=22c55e)](https://github.com/telinii/hub-epi)
+[![maintenance-system](https://img.shields.io/badge/maintenance--system-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=22c55e)](https://github.com/telinii/maintenance-system)
+[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=22c55e)](https://github.com/telinii/blog)
 
 | Project | What it does |
 | --- | --- |
@@ -56,14 +56,14 @@ Linux enthusiast — currently using CachyOS.
   <img src="https://img.shields.io/badge/Joi-E67E22?style=for-the-badge&logo=npm&logoColor=white" alt="Joi" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Bcrypt-0033CC?style=for-the-badge&logo=npm&logoColor=white" alt="Bcrypt" />
-  <img src="https://img.shields.io/badge/CachyOS-03bb85?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/CachyOS-22c55e?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS" />
 </p>
 
 ## Currently Learning
 
-![AI Development](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&labelColor=000000&color=03bb85)
-![TypeScript Backends](https://img.shields.io/badge/TypeScript%20Backends-000000?style=for-the-badge&labelColor=000000&color=03bb85)
-![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-000000?style=for-the-badge&labelColor=000000&color=03bb85)
+![AI Development](https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&labelColor=000000&color=22c55e)
+![TypeScript Backends](https://img.shields.io/badge/TypeScript%20Backends-000000?style=for-the-badge&labelColor=000000&color=22c55e)
+![Cloud Deployments](https://img.shields.io/badge/Cloud%20Deployments-000000?style=for-the-badge&labelColor=000000&color=22c55e)
 
 ---
 
@@ -73,7 +73,7 @@ Linux enthusiast — currently using CachyOS.
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=telinii&theme=dark&hide_border=true&background=000000&ring=03bb85&fire=03bb85&currStreakLabel=03bb85&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=telinii&theme=dark&hide_border=true&background=000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E)
 
 </div>
 
@@ -81,9 +81,9 @@ Linux enthusiast — currently using CachyOS.
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/lucatelinic23%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=03bb85)](mailto:lucatelinic23@gmail.com)
-[![Discord](https://img.shields.io/badge/initialz__-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=03bb85)](https://discord.com/users/initialz_)
+[![Email](https://img.shields.io/badge/lucatelinic23%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=22c55e)](mailto:lucatelinic23@gmail.com)
+[![Discord](https://img.shields.io/badge/initialz__-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=22c55e)](https://discord.com/users/initialz_)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=telinii&color=03bb85&style=flat&label=PROFILE%20VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=telinii&color=22c55e&style=flat&label=PROFILE%20VIEWS)
